@@ -6,7 +6,7 @@ using UnityEngine.UI;
 public class UIManager : MonoBehaviour
 {
     public Sprite[] lives;
-    public Image livesImageDisplay;
+    //public Image livesImageDisplay;
     public GameObject titleScreen;
 
     public Text scoreText;
@@ -23,10 +23,10 @@ public class UIManager : MonoBehaviour
         scoreText.text = "Score: " + score;
     } 
 
-    public void ShowTitleScreen()
-    {
-        titleScreen.SetActive(true);
-    }
+    //public void ShowTitleScreen()
+    //{
+    //    titleScreen.SetActive(true);
+    //}
     public void HideTitleScreen()
     {
         titleScreen.SetActive(false);
