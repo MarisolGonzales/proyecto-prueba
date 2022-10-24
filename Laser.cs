@@ -5,11 +5,10 @@ using UnityEngine;
 public class Laser : MonoBehaviour
 {
     /*
-     Prueba de nuevo
-    Twenty one pilots es la mejor banda
-    ajoijseofesijfosejfoijesf
+     Pesfesfesfde nsfeesfesf
     sfoijesofiojesfoijsoijfsef
-    sofeoijsoefjoisjfeef
+    sofeoijsoefjoisjfeeffsefesfsfes
+    dsfsdfoijesofijesifjosef
      
      */
     [SerializeField]
